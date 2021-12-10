@@ -1,0 +1,6 @@
+*.class
+*.log
+out/
+.idea
+.idea_modules
+.direnv/
